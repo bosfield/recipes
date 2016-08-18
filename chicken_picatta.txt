@@ -6,7 +6,11 @@ flour
 egg
 salt/pepper
 butter
+oil
 
 lemon
 chicken broth
 more butter
+
+pound the chicken
+flour/egg/salt/pepper the chicken
